@@ -69,6 +69,11 @@ ORDER BY price DESC;
 ---5.HOW MANY BRAND SRE THERE---
 SELECT COUNT (DISTINCT Brand) AS 'Distint Brand' FROM mobile_sales;
 ```
+## Visualization:
+__Pivot Tables__
+
+## Charts
+
 
 
 
