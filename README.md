@@ -5,7 +5,7 @@ __This is a sales report for Mobile Sales products__
 ---
 ## Content
 + [Project Overview](#Project-Overview)|+ [Data Source](#Data-Source) |+ [Tools Used](#Tools-Used) |
-+ [Table Outlay](#Table-Outlay)|+ [Query Languages](#Query-Languages])|+ [Visualization](#Visualization)|
++ [Table Outlay](#Table-Outlay)|+ [Query Languages](#Query-Languages)|+ [Visualization](#Visualization)|
 
 ---
 
