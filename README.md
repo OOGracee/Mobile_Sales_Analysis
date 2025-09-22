@@ -68,7 +68,7 @@ ORDER BY price DESC;
 SELECT COUNT (DISTINCT Brand) AS 'Distint Brand' FROM mobile_sales;
 ```
 ## Visualization:
-__Power BI__
+__PowerBI Dashboard__
 <img width="1350" height="762" alt="my dashboad" src="https://github.com/user-attachments/assets/39a1e08a-0639-4517-9df3-da89e6877e67" />
 
 
