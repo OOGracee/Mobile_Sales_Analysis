@@ -69,9 +69,7 @@ SELECT COUNT (DISTINCT Brand) AS 'Distint Brand' FROM mobile_sales;
 ```
 ## Visualization:
 __Power BI__
-<img width="1337" height="752" alt="visual" src="https://github.com/user-attachments/assets/2e054050-f59a-44d6-b9bd-041ff4f7cf21" />
-
-
+<img width="1350" height="762" alt="my dashboad" src="https://github.com/user-attachments/assets/39a1e08a-0639-4517-9df3-da89e6877e67" />
 
 
 
