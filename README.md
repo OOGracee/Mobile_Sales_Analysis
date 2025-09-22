@@ -68,13 +68,8 @@ ORDER BY price DESC;
 SELECT COUNT (DISTINCT Brand) AS 'Distint Brand' FROM mobile_sales;
 ```
 ## Visualization:
-__Pivot Tables__
-
-## Charts
-
-
-
-
+__Power BI__
+<img width="1337" height="752" alt="visual" src="https://github.com/user-attachments/assets/2e054050-f59a-44d6-b9bd-041ff4f7cf21" />
 
 
 
