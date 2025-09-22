@@ -71,6 +71,7 @@ SELECT COUNT (DISTINCT Brand) AS 'Distint Brand' FROM mobile_sales;
 __PowerBI Dashboard__
 <img width="1350" height="762" alt="my dashboad" src="https://github.com/user-attachments/assets/39a1e08a-0639-4517-9df3-da89e6877e67" />
 
+## Single Visual:
 [Link to Chart](https://ibb.co/q3DfvJyz)
 
 
