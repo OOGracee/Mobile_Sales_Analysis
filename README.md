@@ -4,7 +4,8 @@ __This is a sales report for Mobile Sales products__
 
 ---
 ## Content
-Project Overview| Data Source| Tools Used| Table Outlay| Query Languages (SQL)| Visualization
++ [Project Overview](#Project_Overview)
++ [Data Source](#Data_Source) [Tools Used](#Tools_Used) [Table Outlay](#Table_Outlay) [Query Languages (SQL)| Visualization
 
 ---
 
